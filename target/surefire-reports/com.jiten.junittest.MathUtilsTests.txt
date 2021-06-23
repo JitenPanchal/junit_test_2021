@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.jiten.junittest.MathUtilsTests
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.051 s - in com.jiten.junittest.MathUtilsTests
